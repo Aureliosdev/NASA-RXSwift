@@ -1,0 +1,6 @@
+framework module Pods_NASA_RxSwift {
+  umbrella header "Pods-NASA RxSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}
